@@ -131,7 +131,7 @@ async def amireallyalive(alive):
                      f"Owner: {DEFAULTUSER} \n"
                      f"Codename: J.A.R.V.I.S. \n"
                      f"Master Maintainer: @Mayur_Karaniya \n"                     f"Personalizer: @imudayveer \n"
-                     )    
+                     )
 
 
 
